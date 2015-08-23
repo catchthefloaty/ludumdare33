@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 9d49bc4f3c235b840877c4ee8911e566
+timeCreated: 1440217615
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: person_0
+    21300002: person_1
+    21300004: person_2
+    21300006: person_3
+    21300008: person_4
+    21300010: person_5
+    21300012: person_6
+    21300014: person_7
+    21300016: person_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: person_0
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 469
+        width: 459
+        height: 708
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: person_1
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 469
+        width: 461
+        height: 1042
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: person_2
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 469
+        width: 280
+        height: 1042
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: person_3
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1173
+        width: 461
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: person_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 924
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: person_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 732
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: person_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 509
+        width: 48
+        height: 280
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: person_7
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 660
+        width: 461
+        height: 333
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: person_8
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 242
+        width: 463
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
